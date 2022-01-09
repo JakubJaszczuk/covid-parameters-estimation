@@ -1,0 +1,9 @@
+numpy
+mesa
+matplotlib
+seaborn
+scipy
+pandas
+deap
+pyswarms
+scikit-optimize
